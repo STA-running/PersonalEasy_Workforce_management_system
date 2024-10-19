@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:workerManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\WorkerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:WorkerManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:worker.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:boss.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:manager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:employee.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:boss.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:employee.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F1E55B7E-26B0-4851-9591-555FBA2D73F1}|\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.vcxproj|solutionrelative:manager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "DocumentMoniker": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "RelativeDocumentMoniker": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "ToolTip": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "RelativeToolTip": "\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF.cpp",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAD0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T05:59:23.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "workerManager.h",
+              "DocumentMoniker": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.h",
+              "RelativeDocumentMoniker": "workerManager.h",
+              "ToolTip": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.h",
+              "RelativeToolTip": "workerManager.h",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAADgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-28T06:04:09.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "workerManager.cpp",
+              "DocumentMoniker": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.cpp",
+              "RelativeDocumentMoniker": "workerManager.cpp",
+              "ToolTip": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\workerManager.cpp",
+              "RelativeToolTip": "workerManager.cpp",
+              "ViewState": "AQIAAF4AAAAAAAAAAAAQwGkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T06:08:44.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "worker.h",
+              "DocumentMoniker": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.h",
+              "RelativeDocumentMoniker": "worker.h",
+              "ToolTip": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\worker.h",
+              "RelativeToolTip": "worker.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-28T06:43:46.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "boss.cpp",
+              "DocumentMoniker": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\boss.cpp",
+              "RelativeDocumentMoniker": "boss.cpp",
+              "ToolTip": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\boss.cpp",
+              "RelativeToolTip": "boss.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T07:41:11.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "manager.cpp",
+              "DocumentMoniker": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\manager.cpp",
+              "RelativeDocumentMoniker": "manager.cpp",
+              "ToolTip": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\manager.cpp",
+              "RelativeToolTip": "manager.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T07:32:24.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "employee.cpp",
+              "DocumentMoniker": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\employee.cpp",
+              "RelativeDocumentMoniker": "employee.cpp",
+              "ToolTip": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\employee.cpp",
+              "RelativeToolTip": "employee.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-28T07:03:58.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "boss.h",
+              "DocumentMoniker": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\boss.h",
+              "RelativeDocumentMoniker": "boss.h",
+              "ToolTip": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\boss.h",
+              "RelativeToolTip": "boss.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-28T07:41:04.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "employee.h",
+              "DocumentMoniker": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\employee.h",
+              "RelativeDocumentMoniker": "employee.h",
+              "ToolTip": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\employee.h",
+              "RelativeToolTip": "employee.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-28T06:54:46.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "manager.h",
+              "DocumentMoniker": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\manager.h",
+              "RelativeDocumentMoniker": "manager.h",
+              "ToolTip": "C:\\Users\\sta\\Desktop\\c\u002B\u002B\u5B9E\u9A8C\\\u81EA\u4E3B\u5B66\u4E60\u4EE3\u7801\\\u804C\u5DE5\u7BA1\u7406\u7CFB\u7EDF\\manager.h",
+              "RelativeToolTip": "manager.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-28T07:13:39.906Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
