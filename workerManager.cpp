@@ -91,14 +91,13 @@ void WorkerManager::Del_Emp()
 	if (this->m_FileIsEmpty)
 	{
 		cout << "文件不存在，无法删除" << endl;
-		return;
 	}
 	else {
 		cout << "请输入你要删除职工的编号id" << endl;
 		int id=0;
 		cin >> id;
 		int idx = this->IsExit(id);
-		if (id != -1)
+		if (idx != -1)
 		{
 			for (int i = id; i < this->m_EmpNum - 1; i++)
 			{
@@ -109,7 +108,6 @@ void WorkerManager::Del_Emp()
 			cout << "success！" << endl;
 		}else {
 			cout << "没有这个人哦~" << endl;
-			return;
 		}
 	}
 	system("pause");
